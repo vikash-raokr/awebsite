@@ -1,2 +1,2 @@
-FROM vikash-rao/webapp
+FROM vikash-rao/awebsite
 ADD . /var/www/html
